@@ -1,0 +1,12 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #0f1228;
+    color:#e7e9f0;
+    overflow-x: hidden;
+    font-family: 'Lato',sans-serif;
+}
